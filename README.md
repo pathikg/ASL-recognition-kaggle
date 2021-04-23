@@ -1,7 +1,7 @@
 # ASL-recognition-kaggle
 RDBMS IA2 research paper implementation
 
-
+***
 #### Name : Pathik Prashant Ghugare
 #### Roll No : 1911014
 #### Div : A
@@ -12,4 +12,9 @@ RDBMS IA2 research paper implementation
 Research paper referred : [CNN Model for American Sign Language Recognition](http://link.springer.com.library.somaiya.edu/chapter/10.1007/978-981-15-7961-5_6)
 ***
 
-Kaggle notebook : [American Sign language prediction](https://www.kaggle.com/pathikghugare/american-sign-language-prediction)
+Kaggle notebook : [American Sign language prediction](https://www.kaggle.com/datamunge/sign-language-mnist)
+***
+
+The dataset for this work is taken from the open-source website, the dataset is called as the [Sign-language MNIST](), available on Kaggle. The dataset is patterned to
+match with the classic MNIST. Each training and test case represents a label (0–25) as a oneto-one map for each alphabetic letter A–Z (and no cases for J = 9 or Z = 25
+because of gesture motions).
