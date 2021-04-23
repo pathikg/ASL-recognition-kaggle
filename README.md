@@ -13,9 +13,9 @@ Research paper referred : [CNN Model for American Sign Language Recognition](htt
 ***
 The implementation of the methodology suggested in research paper can be found here ,
 
-Kaggle notebook : [American Sign language prediction](https://www.kaggle.com/datamunge/sign-language-mnist)
+Kaggle notebook : [American Sign language prediction](https://www.kaggle.com/pathikghugare/american-sign-language-prediction)
 ***
 
-The dataset for this work is taken from the open-source website, the dataset is called as the [Sign-language MNIST](), available on Kaggle. The dataset is patterned to
+The dataset for this work is taken from the open-source website, the dataset is called as the [Sign-language MNIST](https://www.kaggle.com/datamunge/sign-language-mnist), available on Kaggle. The dataset is patterned to
 match with the classic MNIST. Each training and test case represents a label (0–25) as a oneto-one map for each alphabetic letter A–Z (and no cases for J = 9 or Z = 25
 because of gesture motions).
