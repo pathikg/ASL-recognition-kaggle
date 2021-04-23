@@ -11,6 +11,7 @@ RDBMS IA2 research paper implementation
 ***
 Research paper referred : [CNN Model for American Sign Language Recognition](http://link.springer.com.library.somaiya.edu/chapter/10.1007/978-981-15-7961-5_6)
 ***
+The implementation of the methodology suggested in research paper can be found here ,
 
 Kaggle notebook : [American Sign language prediction](https://www.kaggle.com/datamunge/sign-language-mnist)
 ***
